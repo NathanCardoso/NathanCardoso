@@ -6,8 +6,6 @@
 
 ![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=nathancardoso&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathancardoso)](https://github.com/NathanCardoso/github-readme-stats)
-
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br> 
