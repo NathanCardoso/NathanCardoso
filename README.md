@@ -4,10 +4,10 @@
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ns77502@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521986141270)
 
-[![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=nathancardoso&show_icons=true&theme=radical)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathancardoso&layout=compact&langs_count=168&theme=radical)](https://github.com/nathancardoso/github-readme-stats)
-
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathancardoso&show_icons=true&theme=radical">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathancardoso&layout=compact&langs_count=168&theme=radical">
+</div>
 
 ### Tecnologias que eu uso no meu dia a dia
 
