@@ -5,7 +5,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521986141270)
 
 <div style="display: flex;">
-    ![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanCardoso&show_icons=true&theme=radical)
+    [![Nathan GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanCardoso&show_icons=true&theme=radical)
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanCardoso)](https://github.com/nathancardoso/github-readme-stats)
 </div>
 
